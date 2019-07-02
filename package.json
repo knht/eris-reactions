@@ -1,0 +1,30 @@
+{
+  "name": "eris-reactions",
+  "version": "0.1.0",
+  "description": "An extremely easy to use and straight forward reaction handler for bulk collecting reactions or listening for a continuous stream of reactions coming in for the Eris library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riyacchi/eris-reactions.git"
+  },
+  "keywords": [
+    "Eris",
+    "reaction",
+    "reactions",
+    "collector",
+    "reaction-collector",
+    "discord"
+  ],
+  "author": "Riya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riyacchi/eris-reactions/issues"
+  },
+  "homepage": "https://github.com/riyacchi/eris-reactions#readme",
+  "dependencies": {
+    "eventemitter3": "^4.0.0"
+  }
+}

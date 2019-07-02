@@ -12,11 +12,14 @@
   },
   "keywords": [
     "Eris",
+    "eris",
     "reaction",
     "reactions",
     "collector",
     "reaction-collector",
-    "discord"
+    "discord",
+    "pagination",
+    "embed-pagination"
   ],
   "author": "Riya",
   "license": "MIT",

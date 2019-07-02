@@ -11,7 +11,7 @@ The API is pretty straight forward and only requires `eventemitter3` as a depend
 Simply install Eris Reactions via NPM `npm install eris-reactions` and require it wherever you need it!
 
 # API 
->Bulk collecting a specified amount of reactions and a set maximum time:
+#### Bulk collecting a specified amount of reactions and a set maximum time:
 ```js
 ReactionHandler.collectReactions(message, filter, options);
 ```
@@ -31,7 +31,7 @@ The result is an **Array** of `resultObject` containing all collected reaction r
 
 <hr>
 
->Setting up a listener for continuous Reaction listening:
+#### Setting up a listener for continuous Reaction listening:
 ```js
 new ReactionHandler.continuousReactionStream(message, filter, permanent, options);
 ```

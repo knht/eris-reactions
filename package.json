@@ -27,7 +27,5 @@
     "url": "https://github.com/riyacchi/eris-reactions/issues"
   },
   "homepage": "https://github.com/riyacchi/eris-reactions#readme",
-  "dependencies": {
-    "eventemitter3": "^4.0.0"
-  }
+  "dependencies": {}
 }

@@ -1,11 +1,11 @@
 # Eris Reactions
-**Eris Reactions** is a simple to use, lightweight and blazingly fast **Reaction Handler** for the Node.js Discord library [Eris](https://github.com/abalabahaha/eris).
+**Eris Reactions** is a simple to use, lightweight and blazing fast **Reaction Handler** for the Node.js Discord library [Eris](https://github.com/abalabahaha/eris).
 
 It supports two ways of handling reactions:
 - Bulk collecting a specified amount of reactions over a set period of time
 - Continuous listening for new reactions being added, which can be highly useful for implementing Embed pagination
 
-The API is pretty straight forward and only requires `eventemitter3` as a dependency for blazing fast event emitting.
+The API is pretty straight forward and only requires the native event emitter as a dependency for blazing fast event emitting.
 
 # Getting Started
 Simply install Eris Reactions via NPM `npm install eris-reactions` and require it wherever you need it!

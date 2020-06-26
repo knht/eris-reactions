@@ -1,6 +1,6 @@
 {
   "name": "eris-reactions",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "An extremely easy to use and straight forward reaction handler for bulk collecting reactions or listening for a continuous stream of reactions coming in for the Eris library.",
   "main": "index.js",
   "scripts": {
